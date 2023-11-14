@@ -15,6 +15,7 @@
     "hardhat": "^2.19.0"
   },
   "dependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "dotenv": "^16.3.1"
   }
 }
